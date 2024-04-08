@@ -1,0 +1,14 @@
+Testing scenario: Learning rate=0.0001, Batch size=64, Epochs=100
+Epoch [100/100], Train Loss: 1.7561, Val Loss: 1.7676, Train MSE: 1.7561, Val MSE: 1.7676, Train MAE: 1.0554, Val MAE: 1.0620, Train R2: 0.2543, Val R2: 0.2381
+Test Loss: 1.8192, Test MSE: 1.8192, Test MAE: 1.0762, Test R2: 0.2312
+Testing scenario: Learning rate=0.0001, Batch size=64, Epochs=200
+Epoch [100/200], Train Loss: 1.7690, Val Loss: 1.7807, Train MSE: 1.7690, Val MSE: 1.7807, Train MAE: 1.0633, Val MAE: 1.0707, Train R2: 0.2481, Val R2: 0.2327
+Epoch [200/200], Train Loss: 1.6827, Val Loss: 1.7247, Train MSE: 1.6827, Val MSE: 1.7247, Train MAE: 1.0348, Val MAE: 1.0505, Train R2: 0.2843, Val R2: 0.2551
+Test Loss: 1.7707, Test MSE: 1.7707, Test MAE: 1.0622, Test R2: 0.2501
+Testing scenario: Learning rate=0.0001, Batch size=64, Epochs=500
+Epoch [100/500], Train Loss: 1.7594, Val Loss: 1.7702, Train MSE: 1.7594, Val MSE: 1.7702, Train MAE: 1.0589, Val MAE: 1.0668, Train R2: 0.2531, Val R2: 0.2360
+Epoch [200/500], Train Loss: 1.6746, Val Loss: 1.7142, Train MSE: 1.6746, Val MSE: 1.7142, Train MAE: 1.0309, Val MAE: 1.0458, Train R2: 0.2876, Val R2: 0.2610
+Epoch [300/500], Train Loss: 1.6301, Val Loss: 1.6761, Train MSE: 1.6301, Val MSE: 1.6761, Train MAE: 1.0157, Val MAE: 1.0319, Train R2: 0.3058, Val R2: 0.2763
+Epoch [400/500], Train Loss: 1.5867, Val Loss: 1.6578, Train MSE: 1.5867, Val MSE: 1.6578, Train MAE: 1.0023, Val MAE: 1.0257, Train R2: 0.3240, Val R2: 0.2841
+Epoch [500/500], Train Loss: 1.5496, Val Loss: 1.6338, Train MSE: 1.5496, Val MSE: 1.6338, Train MAE: 0.9866, Val MAE: 1.0116, Train R2: 0.3378, Val R2: 0.2933
+Test Loss: 1.6744, Test MSE: 1.6744, Test MAE: 1.0247, Test R2: 0.2896
